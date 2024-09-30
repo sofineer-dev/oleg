@@ -1,0 +1,12 @@
+/* HomePage.css */
+.container {
+    padding: 20px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.tabs .tab-button {
+    margin-right: 10px; /* Space between buttons */
+}
